@@ -15,7 +15,7 @@ I enjoyed thest  days you can as well . to regiter for next 7 days bootcamp,visi
 <a href="https://www.shapeai.tech"> www.shapeai . tech</a>
 or follow SHAPEAI ON:
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedI</a>
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
  <li><a href=
  "https://www.instagram.com/shape.ai/?">Instagram</a>
  <li><a
